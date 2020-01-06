@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on chrom1um</title>
-    <link>https://chrom1um.github,io/tags/</link>
+    <link>http://chrom1um.github.io/tags/</link>
     <description>Recent content in Tags on chrom1um</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     
-	<atom:link href="https://chrom1um.github,io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chrom1um.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
