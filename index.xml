@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://chrom1um.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>chrom1um</title>
+    <link>https://localhost/</link>
+    <description>Recent content on chrom1um</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2020 15:53:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 16:36:47 +0800</lastBuildDate>
     
-	<atom:link href="https://chrom1um.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://chrom1um.github.io/post/blog/</link>
-      <pubDate>Mon, 06 Jan 2020 15:53:15 +0800</pubDate>
+      <link>https://localhost/post/blog/</link>
+      <pubDate>Mon, 06 Jan 2020 16:36:47 +0800</pubDate>
       
-      <guid>https://chrom1um.github.io/post/blog/</guid>
+      <guid>https://localhost/post/blog/</guid>
       <description></description>
     </item>
     
